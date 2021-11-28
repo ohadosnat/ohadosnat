@@ -14,7 +14,7 @@ users.
 - Developing functional yet fun products that have a direct impact on users.
 - Learn how certain things work "under the hood".
 
-🌱 **The technologies I’m currently learning are:**
+🌱 **I’m currently learning:**
 - React Native
 - GraphQL
 - SQL
